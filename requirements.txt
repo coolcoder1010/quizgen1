@@ -1,0 +1,6 @@
+# Python dependencies
+flask
+google-genai
+google-api-python-client
+google-auth
+gunicorn
